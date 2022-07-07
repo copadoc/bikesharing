@@ -53,4 +53,6 @@ Finally, we can see through this visualization the average duration of bike util
 <img width="523" alt="age" src="https://user-images.githubusercontent.com/99380969/177718927-5d85ec6d-2945-4d83-ac99-05fee463be1a.png">
 
 
-# Summary: With the help of Tableau, we were able to visualize the date for potential investors and can greatly influence the direction investors or company owners are willing to take. Data driven decisions would be the best strategy. Moreover, the data points to the potential opportunity to grow the business with female riders. Focusing on catering more to women, would greatly help expand earnings. 
+# Summary: 
+
+With the help of Tableau, we were able to visualize the date for potential investors and can greatly influence the direction investors or company owners are willing to take. Data driven decisions would be the best strategy. Moreover, the data points to the potential opportunity to grow the business with female riders. Focusing on catering more to women, would greatly help expand earnings. 
